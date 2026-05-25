@@ -6,7 +6,7 @@ Simple POC to chain multiple callbacks via tail calls to artificially build a ca
 
 ThreadPoolExecChain is a simple proof of concept demonstrating how multiple callbacks can be chained via tail calls to artificially construct a call stack, and how specific return-value–saving frames can be leveraged to recover the results of the last target call.
 
-**Read more in the Blog Post:** [Callback hell: abusing callbacks, tail-calls, and proxy frames to obfuscate the stack](https://klezvirus.github.io/posts/Callback-hell/). 
+**Read more in the Blog Post:** [Callback hell: abusing callbacks, tail-calls, and proxy frames to obfuscate the stack](https://klezvirus.github.io/posts/Callback-Hell/). 
 
 ## Overview
 
